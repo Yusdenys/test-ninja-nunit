@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e1daa309_002D6f70_002D442d_002Da3cf_002Dadb6f5b8597f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CanBeCancelledBy_UserIsAdmin_ReturnsTrue" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::UnitTests.ReservationTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.MathTests.Add_WhenCalled_ReturnOfTheSumOfArguments&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.MathTests.Max_FirstArgumentIsGrater_ReturnTheFirstArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.MathTests.Max_SecondArgumentIsGrater_ReturnTheSecondArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.MathTests.Max_ArgumentsAreEqual_ReturnTheSameArgument&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.MathTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.HtmlFormatterTests.FormatAsBold_WhenCalled_ShouldEncloseTheStringWithStrongElement&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.HtmlFormatterTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.CustomerControllerTests.GetCustomer_IdIsZero_ReturnNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.CustomerControllerTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
