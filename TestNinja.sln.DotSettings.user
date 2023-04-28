@@ -11,5 +11,8 @@
     &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.HtmlFormatterTests&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.CustomerControllerTests.GetCustomer_IdIsZero_ReturnNotFound&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.CustomerControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.ErrorLoggerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.FizzBuzzTests.GetOutput_WhenCalled_ReturnString&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::7C6C2B66-C95B-41D2-9A18-787C86C75AA0::net7.0::TestNinja.UnitTest.FizzBuzzTests&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

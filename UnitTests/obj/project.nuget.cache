@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dNz+xBrIRjzqaIG3mPnJinrBUuLYylJXVLNa1+W7Uw0B7UWVnh0f4KhTk2PoH4V84IGOGyU7x0VVoWyYNZXp7w==",
+  "dgSpecHash": "b9+EyhaSoetAB5ZBC2mF7trcoY2JAbeu8bChRUu/0aX13Zv1P3TbUyy1Ra/H4nG2sa3gyY3rdHn+kHdAXxFyTA==",
   "success": true,
   "projectFilePath": "C:\\platzi\\test-ninja-nunit\\UnitTests\\TestNinja.UnitTest.csproj",
   "expectedPackageFiles": [

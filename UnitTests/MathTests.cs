@@ -13,7 +13,7 @@ namespace TestNinja.UnitTest
         public void SetUp()
         {
             _math = new Math();
-        }  
+        }
         
         [Test]
         [NUnit.Framework.Ignore("Beacause I wanted to!")]

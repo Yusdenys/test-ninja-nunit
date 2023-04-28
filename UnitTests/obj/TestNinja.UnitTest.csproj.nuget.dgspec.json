@@ -5,20 +5,15 @@
   },
   "projects": {
     "C:\\platzi\\test-ninja-nunit\\TestNinja\\TestNinja.csproj": {
-      "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\platzi\\test-ninja-nunit\\TestNinja\\TestNinja.csproj",
         "projectName": "TestNinja",
         "projectPath": "C:\\platzi\\test-ninja-nunit\\TestNinja\\TestNinja.csproj",
         "packagesPath": "C:\\Users\\Yusdenys\\.nuget\\packages\\",
-        "outputPath": "C:\\platzi\\test-ninja-nunit\\TestNinja\\obj\\",
         "projectStyle": "PackagesConfig",
         "configFilePaths": [
           "C:\\Users\\Yusdenys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net48"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -33,17 +28,6 @@
       },
       "frameworks": {
         "net48": {}
-      },
-      "runtimes": {
-        "win": {
-          "#import": []
-        },
-        "win-x64": {
-          "#import": []
-        },
-        "win-x86": {
-          "#import": []
-        }
       }
     },
     "C:\\platzi\\test-ninja-nunit\\UnitTests\\TestNinja.UnitTest.csproj": {
